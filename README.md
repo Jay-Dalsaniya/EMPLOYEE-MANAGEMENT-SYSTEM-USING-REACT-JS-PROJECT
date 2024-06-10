@@ -102,6 +102,9 @@ A simple CRUD (Create, Read, Update, Delete) application to manage users. This a
 
 This project is licensed under the MIT License.
 
+![WhatsApp Image 2024-06-10 at 18 52 42_dfd0bbde](https://github.com/Jay-Dalsaniya/EMPLOYEE-MANAGEMENT-SYSTEM-USING-REACT-JS-PROJECT/assets/168808927/b19b5cd3-df7a-487f-9fbb-f97010e8396a)
+
+
 ## Acknowledgments
 
 - Inspired by various CRUD applications and tutorials.
